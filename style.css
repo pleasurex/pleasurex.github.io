@@ -40,8 +40,8 @@ video {
 
 .moriase {
     display: flex;
-    margin-left: -5px;
-    margin-right: -5px;
+    margin-left: -1px;
+    margin-right: -1.2px;
     flex-wrap: wrap;
 }
 
@@ -50,7 +50,7 @@ video {
 
 .build {
     flex: 16%;
-    padding: 0px 1.5px 0px;
+    padding-inline: 1.3px;
     margin-top: 3px;
 }
 
